@@ -1,0 +1,10 @@
+﻿data/*.csv
+data/*.xlsx
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+__pycache__/
+*.py[cod]
+venv/
+.env
+kaggle.json
+*.log
